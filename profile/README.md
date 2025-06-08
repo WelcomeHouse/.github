@@ -3,5 +3,5 @@
 > 
 > Read about the imminent planned bombing that will likely affect us. [Learn more ->](https://github.com/taotcis/R/wiki/Nightfalls)
 
-# Read the R wiki
-[Click here for the R Wiki](https://github.com/taotcis/R/wiki/_WH-Home)
+# What You Need To Know 
+[Click here](https://github.com/taotcis/R/wiki/_WH-Home)
